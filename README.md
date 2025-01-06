@@ -1,169 +1,74 @@
-<!-- <a href="https://github.com/SaifRasool92">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
-</a> -->
+<!-- GitHub Profile README -->
 
-<!-- # Top [6th](https://user-badge.committers.top/pakistan/arhamansari11) Pakistani GitHub Contributor -->
+<h1 align="center">Hi, I'm Fatima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">Aspiring AI Developer | Graphic Designer | Coding Enthusiast</h3>
 
-# Top [![committers.top badge](https://user-badge.committers.top/pakistan/SaifRasool92.svg)](https://user-badge.committers.top/pakistan/SaifRasool92)th Pakistani Github Contributor
-
-
-# Software Engineer 🖥.
-
-<!-- [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
-
--->
-
-
-<!-- Bio -->
-- *@[GitHub](https://committers.top/pakistan)* One of the most active contributors on GitHub in Pakistan, ranking *[8th](https://committers.top/pakistan#SaifRasool92)*.
-- *@[LeetCode](https://leetcode.com/u/Saif_Rasool/)* Solved 100+ Data Structures & Algorithms problems.
-- *@[iCodeGuru](https://linkedin.com/company/icode-guru/)*: Provided training on Data Structures and Algorithms (DSA).
-- *@[iCodeGuru](https://linkedin.com/company/icode-guru/): Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.[PlayList](https://github.com/SaifRasool92)*.
-- @If you want to see how I provide training to my students have a look → *[👀](https://github.com/SaifRasool92)*
-- *@lablab.ai*: [Competed](https://lablab.ai/u/@Saif_123) in multiple international AI hackathons as part with a team of 6 international members.
-- *@lablab.ai*: [Winner](https://www.linkedin.com/company/lablab-ai/posts/?feedView=all) of an International Hackathon(Unhallucinate Challange).
-- *@Guest Speaker at University of Punjab*: [Deliver a Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.
-- *@Meta Hacker Cup*: Participated in Meta Hacker Cup [2024](https://web.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220) where I've work with international Engineers and solve complex problems .
-- *@Harvard University(CS50x_PuzzleDay_Winner)*: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
-puzzles.
-<!--- *@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)* More than 80 WPM. -->
-
-#
-
-## My Skill Set 🛠:
-
-<table><tr><td valign="top" width="25%">
-  
-### Machine Learning
-<a href="https://github.com/arhamansari11/">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/arhamansari11/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Backend
-<a href="https://github.com/arhamansari11/">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
-</div>
-</a>
-
-</td>
-</tr>
-<tr><td valign="top" width="25%">
-
-### Code Editors  
-<a href="https://github.com/arhamansari11/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-    
-###  Languages
-<a href="https://github.com/arhamansari11/">
-<div align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-
-### Others 
-<a href="https://github.com/arhamansari11/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
-</div>
-</a>
- </td> 
-</tr>
-</table>
-
- ## Connect with me🤝:
-<div align="center">
-    <a href="https://muhammad-arham.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-    <a href="https://lablab.ai/u/@Arhamansari" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-</div>
-
-
-
- ## Github Stats📈:
 <p align="center">
-    <a href="https://github.com/SaifRasool92">
-        <img height="180em" src="![Saif Ur Rasool GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifRasool92&theme=dark&show_icons=true)"/>
-        <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
+</p>
+
+---
+
+### 👩‍💻 About Me:
+- 🌱 I’m currently learning **DSA, AI Development, and OOP**.
+- 🎓 Recently started university and actively pursuing coding challenges.
+- 🤝 Participating in **hackathons** and competitions like **UC Berkeley CALICO**.
+- 🎨 Passionate about **graphic design** and creating visually appealing UI/UX.
+- 💬 Ask me about **coding logic, motivation, and educational tools.**
+
+---
+
+### 🛠️ Skill Sets:
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,photoshop,illustrator" alt="skills" />
+</p>
+
+---
+
+### 🌐 Connect with Me:
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your-email@example.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://behance.net/your-profile" target="_blank">
+        <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
 </p>
 
+---
 
+### 📊 GitHub Stats:
 
- <p align="center">
-   <a href="https://github.com/arhamansari11"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
-
-<br>
-
-#
-
-<!-- <div align="center">
-  <a href="https://github.com/arhamansari11">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
-  </a>
- </div> -->
-
-## COMPLETED INTERNATIONAL HACKATHONS🥇:
-
-<p float="left">
-  <a href="https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/speakjourney-team/speakjourney-language-platform" target="_blank">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_agcmu0jdf.webp" width="390">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/nextgen-gpt-ai-hackathon/agri-innovators/smart-crop-advisor" target="_blank">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_6s3izi0enn.webp" width="390">
-  </a>
-  &nbsp;
-    <a href="https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented/nutrition-chatbot">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="390">
-  </a>
- &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/24h-claude-hackathon/global-insight/global-insight-claude-3-opus">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gs99ki0uwm.webp" width="390">
-  </a>
-  &nbsp; &nbsp;
- <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_of20k0306.webp" width="390">
-  </a>
-    &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
-     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
-  </a>
-  <!-- &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/90917306-1f50-46e4-a8b9-2b9981d444a5" width="400">
-  </a>
-   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/ai-agents-hackathon-2/viral-cuts/viral-clips">
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/62cf67c7-6df6-4337-809a-8fd2e102b748" width="400">
-  </a>
-   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
-  </a> -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak">
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
+---
 
-#
+### 🌟 Additional Information:
+- 🔥 Regularly post motivational quotes and reflections on **LinkedIn**.
+- 📖 Actively learning math concepts like **algebra and calculus**.
+- 💡 Passionate about improving **educational tools** like WhatsApp for student use.
+
+---
+
+<p align="center">
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Badge" />
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Badge" />
+</p>
+
+---
+
+<p align="center">
+    <b>✨ Thanks for visiting my profile! Have a great day! ✨</b>
+</p>
