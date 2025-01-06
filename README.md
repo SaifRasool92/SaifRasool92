@@ -100,9 +100,9 @@ puzzles.
 
  ## Github Stats📈:
 <p align="center">
-    <a href="https://github.com/arhamansari11">
+    <a href="https://github.com/SaifRasool92">
         <img height="180em" src="https://camo.githubusercontent.com/480539ff0d6a6a10368b240be9c4ab0830f6a6e481d6f571f6e774f978a1469d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d616c676f6c6961"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" />
     </a>
 </p>
 
