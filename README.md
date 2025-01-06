@@ -1,10 +1,10 @@
-<!-- <a href="https://github.com/arhamansari11">
+<!-- <a href="https://github.com/SaifRasool92">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
 </a> -->
 
 <!-- # Top [6th](https://user-badge.committers.top/pakistan/arhamansari11) Pakistani GitHub Contributor -->
 
-# Top [![committers.top badge](https://user-badge.committers.top/pakistan/arhamansari11.svg)](https://user-badge.committers.top/pakistan/arhamansari11)th Pakistani Github Contributor
+# Top [![committers.top badge](https://user-badge.committers.top/pakistan/SaifRasool92.svg)](https://user-badge.committers.top/pakistan/SaifRasool92)th Pakistani Github Contributor
 
 
 # Software Engineer 🖥.
@@ -15,18 +15,18 @@
 
 
 <!-- Bio -->
-- *@[GitHub](https://committers.top/pakistan)* One of the most active contributors on GitHub in Pakistan, ranking *[8th](https://committers.top/pakistan#arhamansari11)*.
-- *@[LeetCode](https://leetcode.com/u/arhamansari11/)* Solved 350+ Data Structures & Algorithms problems.
+- *@[GitHub](https://committers.top/pakistan)* One of the most active contributors on GitHub in Pakistan, ranking *[8th](https://committers.top/pakistan#SaifRasool92)*.
+- *@[LeetCode](https://leetcode.com/u/Saif_Rasool/)* Solved 100+ Data Structures & Algorithms problems.
 - *@[iCodeGuru](https://linkedin.com/company/icode-guru/)*: Provided training on Data Structures and Algorithms (DSA).
-- *@[iCodeGuru](https://linkedin.com/company/icode-guru/): Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)*.
-- @If you want to see how I provide training to my students have a look → *[👀](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)*
-- *@lablab.ai*: [Competed](https://lablab.ai/u/@Arhamansari) in multiple international AI hackathons as part with a team of 6 international members.
-- *@lablab.ai*: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176606481717370881/) of an International Hackathon(Unhallucinate Challange).
+- *@[iCodeGuru](https://linkedin.com/company/icode-guru/): Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.[PlayList](https://github.com/SaifRasool92)*.
+- @If you want to see how I provide training to my students have a look → *[👀](https://github.com/SaifRasool92)*
+- *@lablab.ai*: [Competed](https://lablab.ai/u/@Saif_123) in multiple international AI hackathons as part with a team of 6 international members.
+- *@lablab.ai*: [Winner](https://www.linkedin.com/company/lablab-ai/posts/?feedView=all) of an International Hackathon(Unhallucinate Challange).
 - *@Guest Speaker at University of Punjab*: [Deliver a Webinar](https://www.youtube.com/watch?v=XjZlSS-HtAs) to spread awarness about Meta Hacker Cup in Pakistan.
-- *@Meta Hacker Cup*: Participated in Meta Hacker Cup [2023](https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/841709690958121) and [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/841709690958121) where I've work with international Engineers and solve complex problems .
+- *@Meta Hacker Cup*: Participated in Meta Hacker Cup [2024](https://web.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220) where I've work with international Engineers and solve complex problems .
 - *@Harvard University(CS50x_PuzzleDay_Winner)*: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
 puzzles.
-- *@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)* More than 80 WPM.
+<!--- *@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)* More than 80 WPM. -->
 
 #
 
