@@ -44,9 +44,9 @@
 
 ### 📊 GitHub Stats:
 
-![Abdullah Jameel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaifUrRasool&show_icons=true&theme=radical)
+![Abdullah Jameel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahJameel&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifUrRasool&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahJameel&layout=compact&theme=radical)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
