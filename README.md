@@ -50,8 +50,8 @@
 
   <!-- GitHub Stats Section -->
   <a href="https://github.com/SaifRasool92">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaifRasool92&show_icons=true&theme=CodeSwift&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaifRasool92&langs_count=8&layout=compact&theme=CodeSwift&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaifRasool92&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
 
   <!-- Activity Graph -->
