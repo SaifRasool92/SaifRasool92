@@ -56,7 +56,7 @@
 
   <!-- Activity Graph -->
   <a href="https://github.com/SaifRasool92/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=nightowl&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=GreenPhantom&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
   </a>
 
 </div>
