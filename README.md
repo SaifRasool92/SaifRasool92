@@ -43,25 +43,21 @@
 ---
 
 ### 📊 GitHub Stats:
+<div align="center">
 
-![Abdullah Jameel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahJameel&show_icons=true&theme=radical)
+  <!-- GitHub Stats Section -->
+  <a href="https://github.com/abdullahxyz85">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaifRasool92&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaifRasool92&langs_count=8&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
+  </a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahJameel&layout=compact&theme=radical)
+  <!-- GitHub Streak Section -->
+  <br/>
+  <a href="https://github.com/abdullahxyz85">
+    <img src="https://streak-stats.demolab.com?user=SaifRasool92&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" style="margin-top: 15px;"/>
+  </a>
 
-
----
-
-### 🌟 Additional Information:
-- 🔥 Regularly post motivational quotes and reflections on **LinkedIn**.
-- 📖 Actively learning math concepts like **algebra and calculus**.
-- 💡 Passionate about improving **educational tools** like WhatsApp for student use.
-
----
-
-<p align="center">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Badge" />
-    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Badge" />
-</p>
+</div>
 
 ---
 
