@@ -51,12 +51,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaifRasool92&langs_count=8&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
 
-  <!-- GitHub Streak Section -->
-  <br/>
-  <a href="https://github.com/SaifRasool92">
-    <img src="https://streak-stats.demolab.com?user=SaifRasool92&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" style="margin-top: 15px;"/>
-  </a>
-
+  [![Saif Ur Rasool github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=merko)](https://github.com/SaifRasool92/github-readme-activity-graph)
 </div>
 
 ---
