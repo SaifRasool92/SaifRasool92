@@ -94,10 +94,9 @@
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
 
   <!-- GitHub Stats Section -->
-<div align="center">
+<div >
 
   <!-- GitHub Stats Section -->
   <a href="https://github.com/SaifRasool92">
