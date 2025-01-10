@@ -51,7 +51,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaifRasool92&langs_count=8&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
 
-  [![Saif Ur Rasool github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=merko)](https://github.com/SaifRasool92/github-readme-activity-graph)
+  [![Saif Ur Rasool github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=github-compact)](https://github.com/SaifRasool92/github-readme-activity-graph)
 </div>
 
 ---
