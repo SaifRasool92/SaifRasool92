@@ -112,7 +112,32 @@
 </div>
 
 ---
+## COMPLETED INTERNATIONAL HACKATHONS🥇:
 
+<p float="left">
+  <a href="https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/speakjourney-team/speakjourney-language-platform" target="_blank">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_agcmu0jdf.webp" width="390">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/nextgen-gpt-ai-hackathon/agri-innovators/smart-crop-advisor" target="_blank">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_6s3izi0enn.webp" width="390">
+  </a>
+  &nbsp;
+    <a href="https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented/nutrition-chatbot">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="390">
+  </a>
+ &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/24h-claude-hackathon/global-insight/global-insight-claude-3-opus">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gs99ki0uwm.webp" width="390">
+  </a>
+  &nbsp; &nbsp;
+ <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_of20k0306.webp" width="390">
+  </a>
+    &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
+     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
+  </a>
 <p align="center">
     <b>✨ Thanks for visiting my profile! Have a great day! ✨</b>
 </p>
