@@ -119,8 +119,8 @@
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclyo3ojcg000r3b6vhsr9v8p1%2Fclyo3ojcg000r3b6vhsr9v8p1_imageLink_m3420t27.jpg&w=750&q=75" width="390">
   </a>
   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/nextgen-gpt-ai-hackathon/agri-innovators/smart-crop-advisor" target="_blank">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_6s3izi0enn.webp" width="390">
+  <a href="https://lablab.ai/event/strawberry-reasoning-with-o1/intellibots/dsa-helper-tool" target="_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm10tscso0007356vztoxtsrn%2Fcm10tscso0007356vztoxtsrn_imageLink_gn1als0cv2.jpg&w=750&q=75" width="390">
   </a>
   &nbsp;
     <a href="https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented/nutrition-chatbot">
