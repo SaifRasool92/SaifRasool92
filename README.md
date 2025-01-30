@@ -123,8 +123,8 @@
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm10tscso0007356vztoxtsrn%2Fcm10tscso0007356vztoxtsrn_imageLink_gn1als0cv2.jpg&w=750&q=75" width="390">
   </a>
   &nbsp;
-    <a href="https://lablab.ai/event/unhallucinate-challenge-24-hours-fight/talented/nutrition-chatbot">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_gi4si0npy.webp" width="390">
+    <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390">
   </a>
  &nbsp; &nbsp;
    <a href="https://lablab.ai/event/24h-claude-hackathon/global-insight/global-insight-claude-3-opus">
