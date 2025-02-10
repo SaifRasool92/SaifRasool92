@@ -10,11 +10,11 @@
 ---
 
 ## About Me:
-- 🌱 I’m currently learning **DSA, AI Development, and OOP**.
-- 🎓 Recently started university and actively pursuing coding challenges.
-- 🤝 Participating in **hackathons** and competitions like **UC Berkeley CALICO**.
-- 🎨 Passionate about **graphic design** and creating visually appealing UI/UX.
-- 💬 Ask me about **coding logic, motivation, and educational tools.**
+- I’m currently learning **DSA, AI Development, and OOP**.
+- Recently started university and actively pursuing coding challenges.
+- Participating in **hackathons** and competitions like **UC Berkeley CALICO**.
+- Passionate about **graphic design** and creating visually appealing UI/UX.
+- Ask me about **coding logic, motivation, and educational tools.**
 
 ---
 
@@ -93,7 +93,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
   <!-- GitHub Stats Section -->
 <div >
@@ -112,7 +112,7 @@
 </div>
 
 ---
-## COMPLETED INTERNATIONAL HACKATHONS🥇:
+## COMPLETED INTERNATIONAL HACKATHONS:
 
 <p float="left">
   <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect"_blank">
