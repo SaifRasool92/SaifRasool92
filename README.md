@@ -138,6 +138,4 @@
    <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
      <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
   </a>
-<p align="center">
-    <b>✨ Thanks for visiting my profile! Have a great day! ✨</b>
-</p>
+
