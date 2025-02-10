@@ -8,7 +8,7 @@
 </p>-->
 
 ---
-
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool92)
 ## About Me:
 - I’m currently learning **DSA, AI Development, and OOP**.
 - Recently started university and actively pursuing coding challenges.
