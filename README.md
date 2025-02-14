@@ -123,12 +123,12 @@
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm10tscso0007356vztoxtsrn%2Fcm10tscso0007356vztoxtsrn_imageLink_gn1als0cv2.jpg&w=750&q=75" width="390">
   </a>
   &nbsp;
-    <a href="https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/binaryblitz/cropguard">
+    <!--<a href="https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/binaryblitz/cropguard">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclyo3ojcg000r3b6vhsr9v8p1%2Fclyo3ojcg000r3b6vhsr9v8p1_imageLink_m3420t27.jpg&w=750&q=75" width="390">
   </a>
  &nbsp; &nbsp;
    <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/the-goat/astromind">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390">-->
   </a>
   &nbsp; &nbsp;
  <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
