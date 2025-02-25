@@ -131,10 +131,10 @@
  &nbsp; &nbsp;
    <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/the-goat/astromind">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390">-->
-  <!--</a>
+  </a>
   &nbsp; &nbsp;
- <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
-    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_of20k0306.webp" width="390">
+ <a href="https://lablab.ai/event/fall-in-love-with-deepseek/deepfake/medimate">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390">
   </a>
     &nbsp; &nbsp;
    <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
