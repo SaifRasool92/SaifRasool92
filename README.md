@@ -1,5 +1,7 @@
 <!-- GitHub Profile README -->
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool92)
+
 <h1 align="center">Hi, I'm Saif Ur Rasool <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">--></h1>
 <h3 align="center">Leetcode 50+ | Graphic Designer | 5x Intl' Hacathon Participant | CALICO Fall '24 & Meta Hacker Cup '24 Participant | #117 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Computer Science Student | @Icodeguru</h3>
 <!--
@@ -8,7 +10,7 @@
 </p>-->
 
 ---
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool92)
+
 ## About Me:
 - I’m currently learning **DSA, AI Development, and OOP**.
 - Recently started university and actively pursuing coding challenges.
