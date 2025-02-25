@@ -137,7 +137,7 @@
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390">
   </a>
     &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
-     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
+   <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink">
+     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
   </a>
 
