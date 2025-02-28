@@ -13,16 +13,12 @@
 
 ## About Me:
 - **@[GitHub](https://github.com/SaifRasool92)** Contributing DSA material daily on GitHub and my achievements.
-- @LeetCode Solved 400+ Data Structures & Algorithms problems on LeetCode.
-- @iCodeGuru: Provided training on Data Structures and Algorithms (DSA).
-- @iCodeGuru: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.PlayList.
-- @If you want to see how I provide training to my students have a look → 👀.
-- @lablab.ai: Competed in multiple international AI hackathons as part with a team of 6 international members.
-- @lablab.ai: Winner of an International Hackathon(Unhallucinate Challange).
-- @Guest Speaker at University of Punjab: Deliver a Webinar to spread awarness about Meta Hacker Cup in Pakistan.
-- @Meta Hacker Cup: Participated in Meta Hacker Cup 2023 and 2024 where I've work with international Engineers and solve complex problems .
-- @Harvard University(CS50x_PuzzleDay_Winner): Our team won 1st place solving 9/9 complex puzzles.
-- @Typing Speed More than 100 WPM.
+- **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved [100+](https://github.com/SaifRasool92/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
+- **@[iCodeGuru](https://icode.guru/)**: Provided training on Data Structures and Algorithms (DSA).
+- @If you want to see how I provide training to my students have a look → [👀](https://github.com/SaifRasool92/Volunteer_Teaching).
+- **@[lablab.ai](https://lablab.ai/u/@Saif_123)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
+- @Meta Hacker Cup: Participated in Meta Hacker Cup [2024](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220) where I've work with international Engineers and solve complex problems .
+- **@[CALICO Fall '24 Coding Competition](https://www.linkedin.com/in/saif-ur-rasool/details/certifications/1733845587821/single-media-viewer/?profileId=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)** Solved successfully 5/9 problems and improved my problem solving skills
 
 ---
 
