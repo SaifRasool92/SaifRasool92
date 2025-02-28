@@ -12,7 +12,7 @@
 ---
 
 ## About Me:
-- @GitHub One of the most active contributors on GitHub in Pakistan, ranking 9th.
+- [@GitHub](https://github.com/SaifRasool92) Contributing DSA material daily on Github and my acheivements.
 - @LeetCode Solved 400+ Data Structures & Algorithms problems on LeetCode.
 - @iCodeGuru: Provided training on Data Structures and Algorithms (DSA).
 - @iCodeGuru: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.PlayList.
