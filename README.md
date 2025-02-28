@@ -12,7 +12,7 @@
 ---
 
 ## About Me:
-- [@GitHub](https://github.com/SaifRasool92) Contributing DSA material daily on GitHub and my achievements.
+- **[@GitHub](https://github.com/SaifRasool92)** Contributing DSA material daily on GitHub and my achievements.
 - @LeetCode Solved 400+ Data Structures & Algorithms problems on LeetCode.
 - @iCodeGuru: Provided training on Data Structures and Algorithms (DSA).
 - @iCodeGuru: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.PlayList.
