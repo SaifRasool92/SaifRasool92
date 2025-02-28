@@ -12,11 +12,17 @@
 ---
 
 ## About Me:
-- I’m currently learning **DSA, AI Development, and OOP**.
-- Recently started university and actively pursuing coding challenges.
-- Participating in **hackathons** and competitions like **UC Berkeley CALICO**.
-- Passionate about **graphic design** and creating visually appealing UI/UX.
-- Ask me about **coding logic, motivation, and educational tools.**
+- @GitHub One of the most active contributors on GitHub in Pakistan, ranking 9th.
+- @LeetCode Solved 400+ Data Structures & Algorithms problems on LeetCode.
+- @iCodeGuru: Provided training on Data Structures and Algorithms (DSA).
+- @iCodeGuru: Delivered engaging workshops on Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons.PlayList.
+- @If you want to see how I provide training to my students have a look → 👀.
+- @lablab.ai: Competed in multiple international AI hackathons as part with a team of 6 international members.
+- @lablab.ai: Winner of an International Hackathon(Unhallucinate Challange).
+- @Guest Speaker at University of Punjab: Deliver a Webinar to spread awarness about Meta Hacker Cup in Pakistan.
+- @Meta Hacker Cup: Participated in Meta Hacker Cup 2023 and 2024 where I've work with international Engineers and solve complex problems .
+- @Harvard University(CS50x_PuzzleDay_Winner): Our team won 1st place solving 9/9 complex puzzles.
+- @Typing Speed More than 100 WPM.
 
 ---
 
