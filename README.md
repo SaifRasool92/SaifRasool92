@@ -16,7 +16,7 @@
 
 ## About Me:
 - **@[GitHub](https://github.com/SaifRasool92)** Contributing DSA material daily on GitHub and my achievements.
-- **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved [100+](https://github.com/SaifRasool92/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
+- **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved [125+](https://github.com/SaifRasool92/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - @If you want to see how I provide training to my students have a [look](https://github.com/SaifRasool92/Volunteer_Teaching).
 - **@[lablab.ai](https://lablab.ai/u/@Saif_123)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
