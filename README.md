@@ -15,7 +15,7 @@
 ---
 
 ## About Me:
-- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved 9/9 complex puzzles with my team **Logic Lords**
+- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Logic Lords](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/SaifRasool92)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved [125+](https://github.com/SaifRasool92/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Data Structures and Algorithms (DSA).
