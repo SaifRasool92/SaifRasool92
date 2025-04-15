@@ -15,6 +15,7 @@
 ---
 
 ## About Me:
+- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved 9/9 complex puzzles with my team **Logic Lords**
 - **@[GitHub](https://github.com/SaifRasool92)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved [125+](https://github.com/SaifRasool92/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Data Structures and Algorithms (DSA).
