@@ -16,6 +16,7 @@
 
 ## About Me:
 - **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/saif-ur-rasool_codeinplace-stanford-activity-7316817481602416640-e8J-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
+
   
 - **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Logic Lords](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/SaifRasool92)** Contributing DSA material daily on GitHub and my achievements.
