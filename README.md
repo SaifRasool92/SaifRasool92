@@ -112,10 +112,10 @@
 </div>
 
 ## GitHub Analytics
-
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=chartreuse-dark&hide_border=true" width="100%"/>
-</div>
+</div>-->
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
