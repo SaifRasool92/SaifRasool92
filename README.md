@@ -106,7 +106,10 @@
 </p>
 
 ---
-
+## LeetCode Stats & DSA
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Saif_Rasool?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+</div>
 ### GitHub Stats:
 
   <!-- GitHub Stats Section -->
