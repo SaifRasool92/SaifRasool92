@@ -110,10 +110,11 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Saif_Rasool?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
-### GitHub Stats:
+
+## GitHub Stats:
 
   <!-- GitHub Stats Section -->
-<div >
+
 
   <!-- GitHub Stats Section -->
   <!--<a href="https://github.com/SaifRasool92">
