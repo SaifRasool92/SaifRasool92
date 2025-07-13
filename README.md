@@ -111,20 +111,16 @@
   <img src="https://leetcard.jacoblin.cool/Saif_Rasool?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-## GitHub Stats:
+## GitHub Analytics
 
-  <!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=chartreuse-dark&hide_border=true" width="100%"/>
+</div>
 
-
-  <!-- GitHub Stats Section -->
-  <!--<a href="https://github.com/SaifRasool92">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>-->
-    <p align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifRasool92&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
-    <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaifRasool92&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" /> -->
-  </a>
 
   <!-- Activity Graph -->
   <a href="https://github.com/SaifRasool92/github-readme-activity-graph">
