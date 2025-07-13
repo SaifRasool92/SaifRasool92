@@ -116,8 +116,8 @@
 <div >
 
   <!-- GitHub Stats Section -->
-  <a href="https://github.com/SaifRasool92">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
+  <!--<a href="https://github.com/SaifRasool92">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>-->
     <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifRasool92&layout=compact&langs_count=8&theme=chartreuse-dark"/>
