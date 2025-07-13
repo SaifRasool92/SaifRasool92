@@ -30,8 +30,9 @@
 - **@[Advent of Code](https://drive.google.com/file/d/1oeQlukiUQk_mIBWqarZBdJneoHIcCCTm/view?usp=sharing)**: Successfully completed 25 days coding challenges and solved all the problems effectively.
 - **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a [webinar](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view) on importance of UC Berekely's CALICO Spring'25 coding competition.
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
-
+---
+<img align= center src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img align= center src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
+---
 
 ## Skill Sets:
 
