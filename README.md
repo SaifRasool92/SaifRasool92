@@ -169,8 +169,12 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=SaifRasool92&theme=chartreuse-dark&row=1&column=7)
 
 </div>
+<div align='center'>
+<img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
+</div>
 
-<pre>
+
+<!--<pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
                                 /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -182,4 +186,4 @@
                                   /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
+</pre> -->
