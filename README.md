@@ -123,9 +123,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifRasool92&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=dracula" />
-</p>
+</p>-->
 
   <!-- Activity Graph -->
   <a href="https://github.com/SaifRasool92/github-readme-activity-graph">
