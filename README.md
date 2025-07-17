@@ -31,7 +31,10 @@
 - **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view)** on importance of UC Berekely's CALICO Spring'25 coding competition.
 
 
+<details id=0 open>
+<summary><h2>MORE TO VISIT</h2></summary>
 
+  
 ## Skill Sets:
 
 <table align="center"><tr><td valign="top" width="25%">
