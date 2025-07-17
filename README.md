@@ -2,7 +2,7 @@
 
 <swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool92)<swap/><swap>![](https://komarev.com/ghpvc/?username=SaifRasool92)<swap/>
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
-  Saif Ur Rasool
+  <bold>Saif Ur Rasool</bold>
 </h1>
 
 <!--<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Saif Ur Rasool <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">--></h1>
