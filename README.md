@@ -92,7 +92,7 @@
 </tr>
 </table>
 
----
+
 
 ## Connect with Me:
 
@@ -100,22 +100,29 @@
     <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
+  &nbsp;
+    <a href="mailto:rasoolsaif24@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://behance.net/your-profile" target="_blank">
+  &nbsp;
+    <a href="https://www.behance.net/saifrasool2" target="_blank">
         <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
 </p>
 
----
+
 ## LeetCode Stats & DSA
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Saif_Rasool?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&animated=true" alt="LeetCode Badges" />
 </div>
-<div align= 'center'>
+<!--<div align= 'center'>
     <img align= center src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img align= center         src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
 </div>
+<div>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&animated=true" alt="LeetCode Badges" />
+</div>-->
 
 ## GitHub Analytics
 <!--
@@ -126,7 +133,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifRasool92&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-
+</p>
 <!--<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=dracula" />
 </p>-->
@@ -138,9 +145,9 @@
 
 </div>
 
----
-## COMPLETED INTERNATIONAL HACKATHONS:
 
+## COMPLETED INTERNATIONAL HACKATHONS:
+<div align='center'>
 <p float="left">
   <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect"_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390">
@@ -165,6 +172,7 @@
    <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
      <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
   </a>
+</div>
 
 ## Achievements & Certifications
 
