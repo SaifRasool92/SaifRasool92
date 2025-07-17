@@ -15,7 +15,7 @@
 ---
 
 ## About Me:
-- **@[Stanford Code in Place 2025](https://digitalcredential.stanford.edu/check/09E8FB28F122CE1CB9A59536C67B8BE8508A5898A71233B6641137391929242FSm9lSGxRQXdrNk0zc215OFdac2Z6aGFTNFhTTC84VkNCbWZVb3NYOXZHQ1liQlVN)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
+- **@[Stanford Code in Place 2025](https://digitalcredential.stanford.edu/check/09E8FB28F122CE1CB9A59536C67B8BE8508A5898A71233B6641137391929242FSm9lSGxRQXdrNk0zc215OFdac2Z6aGFTNFhTTC84VkNCbWZVb3NYOXZHQ1liQlVN)** Selected as Section Leader among ~1400 all over the world to teach CS106A to 10-15 group of international students
 
   
 - **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Logic Lords](https://www.linkedin.com/posts/dr-aqsa-akram-mbbs-md_cs50-puzzleday-logiclords-activity-7316863736261058560-xwe-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)**
