@@ -1,18 +1,17 @@
 <!-- GitHub Profile README -->
 
-<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool92)<swap/><swap>![](https://komarev.com/ghpvc/?username=SaifRasool92)<swap/>
-<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool92) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=SaifRasool92)
+<h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold;">
   <bold>Saif Ur Rasool</bold>
 </h1>
 
 <!--<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Saif Ur Rasool <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">--></h1>
-<h3 align="center">Leetcode 200+ | Graphic Designer | 7x Intl' Hackathon Participant | CALICO Fall '24 & Meta Hacker Cup '24 Participant | #117 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Computer Science Student | @Icodeguru</h3>
+<!--<h3 align="center">Leetcode 200+ | Graphic Designer | 7x Intl' Hackathon Participant | CALICO Fall '24 & Meta Hacker Cup '24 Participant | #117 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Computer Science Student | @Icodeguru</h3>-->
 <!--
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
 </p>-->
 
----
 
 ## About Me:
 - **@[Stanford Code in Place 2025](https://digitalcredential.stanford.edu/check/09E8FB28F122CE1CB9A59536C67B8BE8508A5898A71233B6641137391929242FSm9lSGxRQXdrNk0zc215OFdac2Z6aGFTNFhTTC84VkNCbWZVb3NYOXZHQ1liQlVN)** Selected as Section Leader among ~1400 all over the world to teach **CS106A** to 10-15 group of international students
@@ -40,7 +39,7 @@
 <table align="center"><tr><td valign="top" width="25%">
   
 ### Machine Learning
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/SaifRasool92">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
@@ -48,7 +47,7 @@
 </td><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/SaifRasool92">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
 </div>
@@ -56,7 +55,7 @@
  </td><td valign="top" width="25%">
         
 ### Backend
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/SaifRasool92">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
@@ -67,7 +66,7 @@
 <tr><td valign="top" width="25%">
 
 ### Code Editors  
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/SaifRasool92">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
 </div>
@@ -75,7 +74,7 @@
 </td><td valign="top" width="25%">
     
 ###  Languages
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/SaifRasool92">
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
 </div>
@@ -83,7 +82,7 @@
 </td><td valign="top" width="25%">
 
 ### Others 
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/SaifRasool92">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
 </div>
