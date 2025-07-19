@@ -23,6 +23,7 @@
 
   
 - **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved **9/9** complex puzzles with my team **[Logic Lords](https://www.linkedin.com/posts/dr-aqsa-akram-mbbs-md_cs50-puzzleday-logiclords-activity-7316863736261058560-xwe-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)**
+- **@[Mehver](https://www.facebook.com/mehverofficial/) & [Green Meds Online](https://www.facebook.com/people/Green-Meds-Online/100086488911744/)** Designed interactive posts and branding materials to enhance their social media presence.
 - **@[GitHub](https://github.com/SaifRasool92)** Contributing **DSA** material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved **[200+](https://github.com/SaifRasool92/Daily-Leetcoding)** Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python and Data Structures &amp; Algorithms (DSA).
