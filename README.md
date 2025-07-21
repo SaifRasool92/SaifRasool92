@@ -183,12 +183,17 @@
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=SaifRasool92&theme=chartreuse-dark&row=1&column=7)
-
+<!--
 </div>
 <div align='center'>
 <img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
-</div>
+</div>-->
 
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
 
 <!--<pre>
                                   ___           ___           ___       ___       ___     
