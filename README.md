@@ -119,7 +119,7 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Saif_Rasool?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&animated=true" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&theme=dark&animated=true" alt="LeetCode Badges" />
 </div>
 <!--<div align= 'center'>
     <img align= center src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img align= center         src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
