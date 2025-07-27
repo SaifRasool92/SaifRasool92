@@ -121,6 +121,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&theme=dark&animated=true" alt="LeetCode Badges" />
 </div>
+
 <!--<div align= 'center'>
     <img align= center src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img align= center         src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
 </div>
@@ -138,6 +139,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifRasool92&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
+<div align='center'>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=algolia" >
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaifRasool92&theme=algolia">
+</div>
 <!--<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=dracula" />
 </p>-->
