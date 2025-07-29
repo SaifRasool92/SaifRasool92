@@ -33,7 +33,7 @@
 - **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**: Ranked 117 globally in beginner round
 - **@[Advent of Code](https://drive.google.com/file/d/1oeQlukiUQk_mIBWqarZBdJneoHIcCCTm/view?usp=sharing)**: Successfully completed 25 days coding challenges and solved all the problems effectively.
 - **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view)** on importance of UC Berekely's CALICO Spring'25 coding competition.
-
+> Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
 <details id=0 open>
 <summary><h2>MORE TO VISIT</h2></summary>
