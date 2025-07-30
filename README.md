@@ -36,7 +36,7 @@
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
 <details >  <!--<details id=0 open>-->
-<summary><h2>MORE TO VISIT</h2></summary>
+<summary><h2>Don't Click Here 🙏</h2></summary>
 
   
 ## Skill Sets:
