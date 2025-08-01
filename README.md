@@ -188,11 +188,11 @@
 <img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
 </div>-->
 
-<h3 align="center">
+<!--<h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-</h3>
+</h3>-->
 
 <!--<pre>
                                   ___           ___           ___       ___       ___     
