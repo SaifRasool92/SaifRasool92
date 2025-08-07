@@ -20,6 +20,7 @@
 
 
 ## About Me:
+
 - **@[Stanford Code in Place 2025](https://digitalcredential.stanford.edu/check/09E8FB28F122CE1CB9A59536C67B8BE8508A5898A71233B6641137391929242FSm9lSGxRQXdrNk0zc215OFdac2Z6aGFTNFhTTC84VkNCbWZVb3NYOXZHQ1liQlVN)** Selected as Section Leader among ~1400 all over the world to teach **CS106A** to 10-15 group of international students
 - **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved **9/9** complex puzzles with my team **[Logic Lords](https://www.linkedin.com/posts/dr-aqsa-akram-mbbs-md_cs50-puzzleday-logiclords-activity-7316863736261058560-xwe-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)**
 - **@[Mehver](https://www.facebook.com/mehverofficial/) & [Green Meds Online](https://www.facebook.com/people/Green-Meds-Online/100086488911744/)** Designed interactive posts and branding materials to enhance their social media presence.
@@ -38,7 +39,10 @@
 <details >  <!--<details id=0 open>-->
 <summary><h2>Feel Free to Click Here 👈</h2></summary>
 
-  
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
+
 ## Skill Sets:
 
 <table align="center"><tr><td valign="top" width="25%">
@@ -113,6 +117,9 @@
         <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
 </p>
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 
 
 ## LeetCode Stats & DSA
@@ -128,6 +135,9 @@
 <div>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&animated=true" alt="LeetCode Badges" />
 </div>-->
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 
 ## GitHub Analytics
 <!--
@@ -153,6 +163,9 @@
   </a>
 
 </div>
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 
 
 ## COMPLETED INTERNATIONAL HACKATHONS:
@@ -176,8 +189,11 @@
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390" alt="ChainSink">
   </a>
 </div>
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 
-## Achievements & Certifications
+## Github trophies:
 
 <div align="center">
 
