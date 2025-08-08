@@ -200,6 +200,10 @@
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=SaifRasool92&theme=chartreuse-dark&row=1&column=7)
+
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 <!--
 </div>
 <div align='center'>
