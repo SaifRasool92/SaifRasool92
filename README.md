@@ -151,9 +151,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifRasool92&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
 <div align='center'>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=algolia" >
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaifRasool92&theme=algolia">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=algolia" >&nbsp;&nbsp;<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaifRasool92&theme=algolia">
 </div>
 <!--<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=dracula" />
