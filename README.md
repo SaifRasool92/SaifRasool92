@@ -44,7 +44,7 @@
 <summary><h1>Feel Free to Click Here 👈</h1></summary>
 
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
 
 ## Skill Sets:
