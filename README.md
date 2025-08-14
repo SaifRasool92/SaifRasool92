@@ -8,7 +8,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>-->
 <div align='center'>
-  <img width="1400" height="349" alt="1747315993754-Recovered" src="https://www.google.com/logos/doodles/2024/pakistan-independence-day-2025-6753651837110884.2-2xa.gif" />
+  <img width="1000" alt="1747315993754-Recovered" src="https://www.google.com/logos/doodles/2024/pakistan-independence-day-2025-6753651837110884.2-2xa.gif" />
 </div>
 <!--
 <div align='center'>
