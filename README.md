@@ -45,7 +45,7 @@
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
 <details id=0 open>  <!--<details id=0 open>-->
-<summary><h1>Feel Free to Click Here 👈</h1></summary>
+<summary><h1>More to Visit</h1></summary>
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
