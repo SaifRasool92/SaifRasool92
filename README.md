@@ -44,7 +44,7 @@
 - **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view)** on importance of UC Berekely's CALICO Spring'25 coding competition.
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
-<details >  <!--<details id=0 open>-->
+<details id=0 open>  <!--<details id=0 open>-->
 <summary><h1>Feel Free to Click Here 👈</h1></summary>
 
 <div align="center">
