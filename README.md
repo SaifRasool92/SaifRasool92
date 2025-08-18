@@ -124,6 +124,10 @@
     <a href="https://www.behance.net/saifrasool2" target="_blank">
         <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
+  &nbsp;
+    <a href="https://linktr.ee/Saif_Ur_Rasool" target="_blank">
+        <img src="https://img.shields.io/badge/Linktree-053EFF?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
 </p>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
@@ -237,3 +241,7 @@
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre> -->
+
+<div>
+  <p>&copy; 2025 All Rights Reserved</p>
+</div>
