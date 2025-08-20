@@ -133,6 +133,22 @@
     <a href="https://linktr.ee/Saif_Ur_Rasool" target="_blank">
         <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
     </a>
+  &nbsp;
+    <a href="https://lablab.ai/u/@Saif_123" target="_blank">
+        <img src="https://img.shields.io/badge/Lablab-ffffff?style=for-the-badge&logo=lablab&logoColor=black" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://monkeytype.com/profile/Saif_ur_Rasool" target="_blank">
+        <img src="https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=yellow" alt="Email" />
+    </a>
+  &nbsp;
+    <a href="https://www.duolingo.com/profile/SaifUrRasool" target="_blank">
+        <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=black" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/Saif_Rasool/" target="_blank">
+        <img src="https://img.shields.io/badge/Leetcode-323437?style=for-the-badge&logo=leetcode&logoColor=black" alt="Email" />
+    </a>
 </p>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
