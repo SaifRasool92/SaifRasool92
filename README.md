@@ -116,40 +116,41 @@
 
 
 ## Connect with Me:
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  &nbsp;
-    <a href="mailto:rasoolsaif24@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  &nbsp;
-    <a href="https://www.behance.net/saifrasool2" target="_blank">
-        <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-    </a>
-  &nbsp;
-    <a href="https://linktr.ee/Saif_Ur_Rasool" target="_blank">
-        <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
-    </a>
-  &nbsp;
-    <a href="https://lablab.ai/u/@Saif_123" target="_blank">
-        <img src="https://img.shields.io/badge/Lablab-ffffff?style=for-the-badge&logo=lablab&logoColor=black" alt="Email" />
-    </a>
+<div width='100px'>
+  <p align="center" width='100px'>
+      <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
     &nbsp;
-    <a href="https://monkeytype.com/profile/Saif_ur_Rasool" target="_blank">
-        <img src="https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=yellow" alt="Email" />
-    </a>
-  &nbsp;
-    <a href="https://www.duolingo.com/profile/SaifUrRasool" target="_blank">
-        <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=black" alt="Email" />
-    </a>
+      <a href="mailto:rasoolsaif24@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
     &nbsp;
-    <a href="https://leetcode.com/u/Saif_Rasool/" target="_blank">
-        <img src="https://img.shields.io/badge/Leetcode-323437?style=for-the-badge&logo=leetcode&logoColor=black" alt="Email" />
-    </a>
-</p>
+      <a href="https://www.behance.net/saifrasool2" target="_blank">
+          <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+      </a>
+    &nbsp;
+      <a href="https://linktr.ee/Saif_Ur_Rasool" target="_blank">
+          <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
+      </a>
+    &nbsp;
+      <a href="https://lablab.ai/u/@Saif_123" target="_blank">
+          <img src="https://img.shields.io/badge/Lablab-ffffff?style=for-the-badge&logo=lablab&logoColor=black" alt="Email" />
+      </a>
+      &nbsp;
+      <a href="https://monkeytype.com/profile/Saif_ur_Rasool" target="_blank">
+          <img src="https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=yellow" alt="Email" />
+      </a>
+    &nbsp;
+      <a href="https://www.duolingo.com/profile/SaifUrRasool" target="_blank">
+          <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=black" alt="Email" />
+      </a>
+      &nbsp;
+      <a href="https://leetcode.com/u/Saif_Rasool/" target="_blank">
+          <img src="https://img.shields.io/badge/Leetcode-323437?style=for-the-badge&logo=leetcode&logoColor=black" alt="Email" />
+      </a>
+  </p>
+</div>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
