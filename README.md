@@ -119,35 +119,35 @@
 <div width='100px'>
   <p align="center" width='100px'>
       <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"style="height:25px;" />
       </a>
     &nbsp;
       <a href="mailto:rasoolsaif24@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height:25px;"/>
       </a>
     &nbsp;
       <a href="https://www.behance.net/saifrasool2" target="_blank">
-          <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+          <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" style="height:25px;"/>
       </a>
     &nbsp;
       <a href="https://linktr.ee/Saif_Ur_Rasool" target="_blank">
-          <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
+          <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"style="height:25px;" />
       </a>
     &nbsp;
       <a href="https://lablab.ai/u/@Saif_123" target="_blank">
-          <img src="https://img.shields.io/badge/Lablab-ffffff?style=for-the-badge&logo=lablab&logoColor=black" alt="Email" />
+          <img src="https://img.shields.io/badge/Lablab-ffffff?style=for-the-badge&logo=lablab&logoColor=black" alt="Email" style="height:25px;"/>
       </a>
       &nbsp;
       <a href="https://monkeytype.com/profile/Saif_ur_Rasool" target="_blank">
-          <img src="https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=yellow" alt="Email" />
+          <img src="https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=yellow" alt="Email" style="height:25px;"/>
       </a>
     &nbsp;
       <a href="https://www.duolingo.com/profile/SaifUrRasool" target="_blank">
-          <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=black" alt="Email" />
+          <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=black" alt="Email" style="height:25px;"/>
       </a>
       &nbsp;
       <a href="https://leetcode.com/u/Saif_Rasool/" target="_blank">
-          <img src="https://img.shields.io/badge/Leetcode-323437?style=for-the-badge&logo=leetcode&logoColor=black" alt="Email" />
+          <img src="https://img.shields.io/badge/Leetcode-323437?style=for-the-badge&logo=leetcode&logoColor=black" alt="Email" style="height:25px;"/>
       </a>
   </p>
 </div>
