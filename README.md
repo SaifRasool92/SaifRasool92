@@ -131,7 +131,7 @@
     </a>
   &nbsp;
     <a href="https://linktr.ee/Saif_Ur_Rasool" target="_blank">
-        <img src="https://img.shields.io/badge/Linktree-053EFF?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+        <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
     </a>
 </p>
 <div align="center">
