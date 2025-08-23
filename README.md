@@ -50,7 +50,9 @@
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
 <details id=0 open>  <!--<details id=0 open>-->
-<summary><h1>More to Visit</h1></summary>
+<summary><h1>More to Visit</h1> <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
+    <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
+  </a></summary>
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
@@ -224,6 +226,9 @@
   <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="30%" alt="ChainSink">
   </a>
+    <!--<a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
+    <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100px" alt="ChainSink">
+  </a>-->
 </div>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
