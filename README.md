@@ -205,8 +205,11 @@
 
 ## COMPLETED INTERNATIONAL HACKATHONS:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
+    <a href="https://lablab.ai/event/co-creating-with-gpt-5/aptiva-ai/agentica" target="_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcme70pof40007356rwkhyj2jo%2Fcme70pof40007356rwkhyj2jo_imageLink_819o60k7w.jpg&w=750&q=75" width="30%" alt="Agentica AI">
+  </a>
   <a href="https://lablab.ai/event/raise-your-hack/agentverse/mailpilot" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcma163h37000l3570kmqcvfec%2Fcma163h37000l3570kmqcvfec_imageLink_ij2aoz0r0n.jpg&w=750&q=75" width="30%" alt="Mediconnect">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcma163h37000l3570kmqcvfec%2Fcma163h37000l3570kmqcvfec_imageLink_ij2aoz0r0n.jpg&w=750&q=75" width="30%" alt="Mailpilot">
   </a>
   <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="30%" alt="Mediconnect">
