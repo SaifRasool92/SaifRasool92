@@ -12,9 +12,9 @@
 </div>-->
 
 
-<div align='center'>
+<a align='center' href="https://www.linkedin.com/in/saif-ur-rasool/">
   <img width="1400" height="349" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/7f89f315-9f16-4ac3-ab62-6d154a4d530c" />
-</div>
+</a>
 <!--
 <div align='center'>
   <img width="1400" height="349" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/14caa5ce-ea1d-4423-899f-1b9a19296f4b" />
