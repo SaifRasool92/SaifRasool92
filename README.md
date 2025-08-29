@@ -63,7 +63,7 @@
 <table align="center"><tr><td valign="top" width="25%">
   
 ### Machine Learning
-<a href="https://github.com/SaifRasool92">
+<a href="https://www.linkedin.com/in/saif-ur-rasool/">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
@@ -71,7 +71,7 @@
 </td><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/SaifRasool92">
+<a href="https://www.linkedin.com/in/saif-ur-rasool/">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
 </div>
@@ -79,7 +79,7 @@
  </td><td valign="top" width="25%">
         
 ### Backend
-<a href="https://github.com/SaifRasool92">
+<a href="https://www.linkedin.com/in/saif-ur-rasool/">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
@@ -90,7 +90,7 @@
 <tr><td valign="top" width="25%">
 
 ### Code Editors  
-<a href="https://github.com/SaifRasool92">
+<a href="https://www.linkedin.com/in/saif-ur-rasool/">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
 </div>
@@ -98,7 +98,7 @@
 </td><td valign="top" width="25%">
     
 ###  Languages
-<a href="https://github.com/SaifRasool92">
+<a href="https://www.linkedin.com/in/saif-ur-rasool/">
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
 </div>
@@ -106,7 +106,7 @@
 </td><td valign="top" width="25%">
 
 ### Others 
-<a href="https://github.com/SaifRasool92">
+<a href="https://www.linkedin.com/in/saif-ur-rasool/">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
 </div>
