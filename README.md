@@ -160,9 +160,11 @@
 
 ## LeetCode Stats & DSA:
 <div align="center">
+<a  href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://leetcard.jacoblin.cool/Saif_Rasool?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&theme=dark&animated=true" alt="LeetCode Badges" height=300px/>
+</a>
 </div>
 
 <!--<div align= 'center'>
@@ -180,20 +182,23 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=chartreuse-dark&hide_border=true" width="100%"/>
 </div>-->
-
-<p align="center">
+<div align="center">
+<a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifRasool92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifRasool92&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</p>
+</a>
+</div>
 <div align='center'>
+  <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=algolia" >&nbsp;&nbsp;<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaifRasool92&theme=algolia">
+  </a>
 </div>
 <!--<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=dracula" />
 </p>-->
 
   <!-- Activity Graph -->
-  <a href="https://github.com/SaifRasool92/github-readme-activity-graph">
+  <a href="https://www.linkedin.com/in/saif-ur-rasool/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifRasool92&theme=chartreuse-dark&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
   </a>
 
