@@ -50,12 +50,14 @@
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
 <details id=0 open>  <!--<details id=0 open>-->
-<summary><h1>More to Visit</h1> <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
+<summary><h1>More to Visit</h1> <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
     <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
   </a></summary>
 
 <div align="center">
+  <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+  </a>
 </div>
 
 ## Skill Sets:
@@ -154,7 +156,9 @@
   </p>
 </div>
 <div align="center">
+  <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+  </a>
 </div>
 
 
@@ -174,7 +178,9 @@
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saif_Rasool&animated=true" alt="LeetCode Badges" />
 </div>-->
 <div align="center">
+  <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+  </a>
 </div>
 
 ## GitHub Analytics:
@@ -204,9 +210,10 @@
 
 </div>
 <div align="center">
+  <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+  </a>
 </div>
-
 
 ## COMPLETED INTERNATIONAL HACKATHONS:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
@@ -239,7 +246,9 @@
   </a>-->
 </div>
 <div align="center">
+  <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+  </a>
 </div>
 
 ## Github trophies:
@@ -249,7 +258,9 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=SaifRasool92&theme=chartreuse-dark&row=1&column=7)
 
 <div align="center">
+  <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+  </a>
 </div>
 <!--
 </div>
