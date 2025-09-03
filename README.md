@@ -49,8 +49,8 @@
 - **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view)** on importance of UC Berekely's CALICO Spring'25 coding competition.
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
-<details id=0 open>  <!--<details id=0 open>-->
-<summary><h1>More to Visit</h1> <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
+<details >  <!--<details id=0 open>-->
+<summary><h1><a href='https://www.linkedin.com/in/saif-ur-rasool/'>More to Visit</a></h1> <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
     <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
   </a></summary>
 
