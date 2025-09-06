@@ -50,7 +50,7 @@
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
 <details >  <!--<details id=0 open>-->
-<summary><h1><a href='https://www.linkedin.com/in/saif-ur-rasool/'>More to Visit</a></h1> <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
+<summary>More to Visit<a>
     <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
   </a></summary>
 
