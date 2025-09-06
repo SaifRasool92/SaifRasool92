@@ -13,7 +13,7 @@
 
 
 <a align='center' href="https://www.linkedin.com/in/saif-ur-rasool/">
-  <img width="1400" height="349" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/7f89f315-9f16-4ac3-ab62-6d154a4d530c" />
+  <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/7f89f315-9f16-4ac3-ab62-6d154a4d530c" />
 </a>
 <!--
 <div align='center'>
