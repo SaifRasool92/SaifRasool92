@@ -218,6 +218,9 @@
 
 ## COMPLETED INTERNATIONAL HACKATHONS:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
+  <a href="https://lablab.ai/event/co-creating-with-gpt-5/aptiva-ai/agentica" target="_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmdqo8hk1000f3572ulnerdh0%2Fcmdqo8hk1000f3572ulnerdh0_imageLink_t517a0ly7.jpg&w=1080&q=75" width="30%" alt="[]">
+  </a>
     <a href="https://lablab.ai/event/co-creating-with-gpt-5/aptiva-ai/agentica" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcme70pof40007356rwkhyj2jo%2Fcme70pof40007356rwkhyj2jo_imageLink_819o60k7w.jpg&w=750&q=75" width="30%" alt="Agentica AI">
   </a>
