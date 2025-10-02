@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool90) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=SaifRasool92)
+<!--[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool90) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=SaifRasool92)-->
 
 <!--<div align="center"><img src="https://github.com/4-Leafs-Code/4-Leafs-Code/blob/main/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%"></div>-->
 <!--<div align="center">
