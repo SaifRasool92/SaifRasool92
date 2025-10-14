@@ -197,7 +197,7 @@
 <div align='center'>
   <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifRasool92&theme=algolia" >&nbsp;&nbsp;<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaifRasool92&theme=algolia">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SaifRasool92" alt="Solved.ac Profile" />
+    <!--<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SaifRasool92" alt="Solved.ac Profile" />-->
   </a>
 </div>
 <!--<p align="center">
