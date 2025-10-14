@@ -254,10 +254,12 @@
   <a href="https://lablab.ai/event/agentic-ai-hackathon-ibm-watsonx-orchestrate" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmfqx77uw000e357i7h3waw9n%2Fcmfqx77uw000e357i7h3waw9n_imageLink_36c4v0wzf.jpg&w=1080&q=75" width="30%" alt="[]">
   </a>
-    <!--<a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
-    <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100px" alt="ChainSink">
-  </a>-->
+   <a href="https://github.com/user-attachments/assets/dde58046-ae40-4852-b3ea-4653f7d22874" target="_blank">
+    <img src="https://github.com/user-attachments/assets/dde58046-ae40-4852-b3ea-4653f7d22874" width="30%" alt="[]">
+  </a>
+
 </div>
+
 <div align="center">
   <a href='https://www.linkedin.com/in/saif-ur-rasool/'>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
