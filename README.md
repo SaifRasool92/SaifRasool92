@@ -1,4 +1,4 @@
-<!-- GitHub Profile README -->
+
 
 
 <!--[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/SaifRasool90) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=SaifRasool92)-->
@@ -14,7 +14,7 @@
 
 
 <a align='center' href="https://www.linkedin.com/in/saif-ur-rasool/">
-  <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/6f2726b2-a96f-4a88-a2b5-78dc99901a36" />
+  <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/34573173-e12f-4583-8ee0-018a860b41f7" />
 </a>
 <!--
 <div align='center'>
