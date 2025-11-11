@@ -246,7 +246,7 @@
   <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="30%" alt="ChainSink">
   </a>
-  <a href="https://lablab.ai/event/ai-agents-arc-usdc" target="_blank">
+  <a href="https://lablab.ai/event/ai-agents-arc-usdc/million-gazillion/arcfi" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmffpz0bc000t357gufgffug3%2Fcmffpz0bc000t357gufgffug3_imageLink_tp21o0r4t.jpg&w=1080&q=75" width="30%" alt="[]">
   </a>
   <a href="https://lablab.ai/event/ai-genesis" target="_blank">
