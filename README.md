@@ -41,7 +41,7 @@
 - **@[GitHub](https://github.com/SaifRasool92)** Contributing **DSA** material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved **[250+](https://github.com/SaifRasool92/Daily-Leetcoding)** Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python and Data Structures &amp; Algorithms (DSA).
-- @If you want to see how I provide training to my students have a **[look](https://github.com/SaifRasool92/Volunteer_Teaching)**.
+- @If you want to see how I provide training to my students have a **[look](https://github.com/SaifRasool92/Volunteer_Teachings)**.
 - **@[lablab.ai](https://lablab.ai/u/@Saif_123)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
 - **@[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220)**: Participated in **Meta Hacker Cup 2024** where I've work on complex problems.
 - **@[CALICO Fall '24 Coding Competition](https://www.linkedin.com/in/saif-ur-rasool/details/certifications/1733845587821/single-media-viewer/?profileId=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)** Solved successfully **5/9 problems** and improved my problem solving skills
