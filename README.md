@@ -47,7 +47,7 @@
 - **@[CALICO Fall '24 Coding Competition](https://www.linkedin.com/in/saif-ur-rasool/details/certifications/1733845587821/single-media-viewer/?profileId=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)** Solved successfully **5/9 problems** and improved my problem solving skills
 - **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**: Ranked 117 globally in beginner round
 - **@[Advent of Code](https://drive.google.com/file/d/1oeQlukiUQk_mIBWqarZBdJneoHIcCCTm/view?usp=sharing)**: Successfully completed 25 days coding challenges and solved all the problems effectively.
-- **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view)** on importance of UC Berekely's CALICO Spring'25 coding competition.
+- **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://youtu.be/U8GyPbt2bhI)** on importance of UC Berekely's CALICO Spring'25 coding competition.
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
 <details >  <!--<details id=0 open>-->
