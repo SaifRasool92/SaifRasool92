@@ -50,6 +50,7 @@
 - **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a **[webinar](https://youtu.be/U8GyPbt2bhI)** on importance of UC Berekely's CALICO Spring'25 coding competition.
 > Thanks for visiting my profile! Feel free to reach out or explore my repositories.
 
+<br>
 <details >  <!--<details id=0 open>-->
 <summary>More to Visit<a>
     <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
