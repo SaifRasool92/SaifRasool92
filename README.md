@@ -335,6 +335,8 @@ class Ayan:
 ion = Ayan()
 ion.about_me()
 ```
--->
 
----
+# aws gif
+![1771977484713](https://github.com/user-attachments/assets/75dfbff2-be05-498e-be38-dec8001cb351)
+
+-->
