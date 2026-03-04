@@ -338,5 +338,6 @@ ion.about_me()
 
 # aws gif
 ![1771977484713](https://github.com/user-attachments/assets/75dfbff2-be05-498e-be38-dec8001cb351)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/07a0b38a-d0ff-4706-bc98-9ff2d7a306b0" />
 
 -->
