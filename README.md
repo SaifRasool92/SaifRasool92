@@ -14,8 +14,9 @@
 
 
 
+
 <a align='center' href="https://www.linkedin.com/in/saif-ur-rasool/">
-  <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/f4d862e1-0aaa-46bb-9256-6f3e4110b334" />
+  <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/8c0ba831-7734-4558-8afa-ced2cc5c6b71" />
 </a> 
 <!-- <a align='center' href="https://www.linkedin.com/in/saif-ur-rasool/">
   <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/34573173-e12f-4583-8ee0-018a860b41f7" />
