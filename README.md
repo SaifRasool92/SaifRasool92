@@ -47,7 +47,7 @@
 - **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved **[250+](https://github.com/SaifRasool92/Daily-Leetcoding)** Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python and Data Structures &amp; Algorithms (DSA).
 - @If you want to see how I provide training to my students have a **[look](https://github.com/SaifRasool92/Volunteer_Teachings)**.
-- **@[lablab.ai](https://lablab.ai/u/@Saif_123)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
+- **@[lablab.build](https://lablab.build/u/@Saif_123)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
 - **@[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220)**: Participated in **Meta Hacker Cup 2024** where I've work on complex problems.
 - **@[CALICO Fall '24 Coding Competition](https://www.linkedin.com/in/saif-ur-rasool/details/certifications/1733845587821/single-media-viewer/?profileId=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)** Solved successfully **5/9 problems** and improved my problem solving skills
 - **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**: Ranked 117 globally in beginner round
@@ -145,7 +145,7 @@
           <img src="https://img.shields.io/badge/Linktree-43e660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"style="height:25px;" />
       </a>
     &nbsp;
-      <a href="https://lablab.ai/u/@Saif_123" target="_blank">
+      <a href="https://lablab.build/u/@Saif_123" target="_blank">
           <img src="https://img.shields.io/badge/Lablab-ffffff?style=for-the-badge&logo=lablab&logoColor=black" alt="Email" style="height:25px;"/>
       </a>
       &nbsp;
@@ -225,41 +225,41 @@
 
 ## COMPLETED INTERNATIONAL HACKATHONS:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
-  <a href="https://lablab.ai/event/internet-of-agents/agent-ops/agent-marketplace" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmdqo8hk1000f3572ulnerdh0%2Fcmdqo8hk1000f3572ulnerdh0_imageLink_t517a0ly7.jpg&w=1080&q=75" width="30%" alt="[]">
+  <a href="https://lablab.build/event/internet-of-agents/agent-ops/agent-marketplace" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmdqo8hk1000f3572ulnerdh0%2Fcmdqo8hk1000f3572ulnerdh0_imageLink_t517a0ly7.jpg&w=1080&q=75" width="30%" alt="[]">
   </a>
-    <a href="https://lablab.ai/event/co-creating-with-gpt-5/aptiva-ai/agentica" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcme70pof40007356rwkhyj2jo%2Fcme70pof40007356rwkhyj2jo_imageLink_819o60k7w.jpg&w=750&q=75" width="30%" alt="Agentica AI">
+    <a href="https://lablab.build/event/co-creating-with-gpt-5/aptiva-ai/agentica" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcme70pof40007356rwkhyj2jo%2Fcme70pof40007356rwkhyj2jo_imageLink_819o60k7w.jpg&w=750&q=75" width="30%" alt="Agentica AI">
   </a>
-  <a href="https://lablab.ai/event/raise-your-hack/agentverse/mailpilot" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcma163h37000l3570kmqcvfec%2Fcma163h37000l3570kmqcvfec_imageLink_ij2aoz0r0n.jpg&w=750&q=75" width="30%" alt="Mailpilot">
+  <a href="https://lablab.build/event/raise-your-hack/agentverse/mailpilot" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcma163h37000l3570kmqcvfec%2Fcma163h37000l3570kmqcvfec_imageLink_ij2aoz0r0n.jpg&w=750&q=75" width="30%" alt="Mailpilot">
   </a>
-  <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="30%" alt="Mediconnect">
+  <a href="https://lablab.build/event/ai-for-connectivity-hackathon/netwizards/mediconnect" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="30%" alt="Mediconnect">
   </a>
-  <a href="https://lablab.ai/event/strawberry-reasoning-with-o1/intellibots/dsa-helper-tool" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm10tscso0007356vztoxtsrn%2Fcm10tscso0007356vztoxtsrn_imageLink_gn1als0cv2.jpg&w=750&q=75" width="30%" alt="DSA Helper Tool">
+  <a href="https://lablab.build/event/strawberry-reasoning-with-o1/intellibots/dsa-helper-tool" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm10tscso0007356vztoxtsrn%2Fcm10tscso0007356vztoxtsrn_imageLink_gn1als0cv2.jpg&w=750&q=75" width="30%" alt="DSA Helper Tool">
   </a>
-  <a href="https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/binaryblitz/cropguard" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclyo3ojcg000r3b6vhsr9v8p1%2Fclyo3ojcg000r3b6vhsr9v8p1_imageLink_m3420t27.jpg&w=750&q=75" width="30%" alt="CropGuard">
+  <a href="https://lablab.build/event/ai-agents-hack-with-lablab-and-mindsdb/binaryblitz/cropguard" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclyo3ojcg000r3b6vhsr9v8p1%2Fclyo3ojcg000r3b6vhsr9v8p1_imageLink_m3420t27.jpg&w=750&q=75" width="30%" alt="CropGuard">
   </a>
-  <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/the-goat/astromind" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="30%" alt="AstroMind">
+  <a href="https://lablab.build/event/aistronauts-space-agents-on-a-mission/the-goat/astromind" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="30%" alt="AstroMind">
   </a>
-  <a href="https://lablab.ai/event/fall-in-love-with-deepseek/deepfake/medimate" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="30%" alt="MediMate">
+  <a href="https://lablab.build/event/fall-in-love-with-deepseek/deepfake/medimate" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="30%" alt="MediMate">
   </a>
-  <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="30%" alt="ChainSink">
+  <a href="https://lablab.build/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="30%" alt="ChainSink">
   </a>
-  <a href="https://lablab.ai/event/ai-agents-arc-usdc/million-gazillion/arcfi" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmffpz0bc000t357gufgffug3%2Fcmffpz0bc000t357gufgffug3_imageLink_tp21o0r4t.jpg&w=1080&q=75" width="30%" alt="[]">
+  <a href="https://lablab.build/event/ai-agents-arc-usdc/million-gazillion/arcfi" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmffpz0bc000t357gufgffug3%2Fcmffpz0bc000t357gufgffug3_imageLink_tp21o0r4t.jpg&w=1080&q=75" width="30%" alt="[]">
   </a>
-  <a href="https://lablab.ai/event/ai-genesis" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmd66fi3u000r357go6m4qhno%2Fcmd66fi3u000r357go6m4qhno_imageLink_h540r84.jpg&w=1080&q=75" width="30%" alt="[]">
+  <a href="https://lablab.build/event/ai-genesis" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmd66fi3u000r357go6m4qhno%2Fcmd66fi3u000r357go6m4qhno_imageLink_h540r84.jpg&w=1080&q=75" width="30%" alt="[]">
   </a>
-  <a href="https://lablab.ai/event/agentic-ai-hackathon-ibm-watsonx-orchestrate" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmfqx77uw000e357i7h3waw9n%2Fcmfqx77uw000e357i7h3waw9n_imageLink_36c4v0wzf.jpg&w=1080&q=75" width="30%" alt="[]">
+  <a href="https://lablab.build/event/agentic-ai-hackathon-ibm-watsonx-orchestrate" target="_blank">
+    <img src="https://lablab.build/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcmfqx77uw000e357i7h3waw9n%2Fcmfqx77uw000e357i7h3waw9n_imageLink_36c4v0wzf.jpg&w=1080&q=75" width="30%" alt="[]">
   </a>
    <a href="https://github.com/user-attachments/assets/dde58046-ae40-4852-b3ea-4653f7d22874" target="_blank">
     <img src="https://github.com/user-attachments/assets/dde58046-ae40-4852-b3ea-4653f7d22874" width="30%" alt="[]">
