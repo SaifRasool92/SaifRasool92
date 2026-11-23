@@ -13,9 +13,13 @@
 
 
 
+
 <a align='center' href="https://www.linkedin.com/in/saif-ur-rasool/">
+  <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/f4d862e1-0aaa-46bb-9256-6f3e4110b334" />
+</a> 
+<!-- <a align='center' href="https://www.linkedin.com/in/saif-ur-rasool/">
   <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/34573173-e12f-4583-8ee0-018a860b41f7" />
-</a>
+</a>  -->
 <!--
 <div align='center'>
   <img width="1400" height="349" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/14caa5ce-ea1d-4423-899f-1b9a19296f4b" />
